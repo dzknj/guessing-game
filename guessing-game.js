@@ -1,4 +1,4 @@
-//this is a javascript file for david z's guessing game.
+ //this is a javascript file for david z's guessing game.
 
 //program prompts user to enter their name
 function namePrompt() {
